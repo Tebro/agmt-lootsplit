@@ -1,0 +1,8 @@
+.ValueAndTax {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.ValueAndTax>* {
+    margin: 10px;
+}
